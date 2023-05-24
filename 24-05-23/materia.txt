@@ -1,0 +1,18 @@
+Moodboard:
+- Conhecido como "painel de referências". É a representação visual e inspiracional de um projeto, onde abrange 
+toda a estrutura, estilo e identidade visual desejada. É feito no início de um processo de UX design, sendo usado
+como base sólida, mas também como comunicação para projetos com grande número de colaboradores, ajudando no
+alinhamento da equipe.
+
+Guia de estilo:
+- Conhecido como "manual de identidade visual". É usado para uma comunicação compartilhada dentro de um projeto, onde deve haver icones, imagens, tipografia, layout, botões, etc. Pois isso facilita um trabalho mais 
+consistente e mais coeso entre todos os membros. Além de também haver a inserção de comportamentos interativos,
+animações, princípios de usuabilidade e recomendações de usuários.
+
+User Flow:
+- É uma sequencia de passos tomadas pelo usuário ao interagir com o ambiente digital. Na criação de um User Flow,
+ajuda o design a vizualizar e planejar como o usuário irá percorrer entre as telas, páginas e seções do produto.
+É uma ferramenta fundamental para entender e otimizar a experiência do usuário. Podendo simplificar fluxos complexos e evitar obstáculos desnecessários.
+
+
+
